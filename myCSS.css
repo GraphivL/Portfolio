@@ -2,7 +2,11 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	font: 100%/1.4 Stencil Std, fantasy;
+	 background-color: #000000;
+     margin: 0;
+     padding: 0;
+     color: #000;
 }
 .homePage {
 	background: #000000;
